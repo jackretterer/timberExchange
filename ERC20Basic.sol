@@ -1,4 +1,8 @@
 pragma solidity ^0.6.0;
+
+import "./ERC20.sol";
+import "./SafeMath.sol";
+
 /**
 * Contract for deploying the ERC20 token
 */

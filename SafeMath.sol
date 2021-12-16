@@ -1,5 +1,8 @@
 pragma solidity ^0.6.0;
 
+import "./ERC20.sol";
+import "./ERC20Basic.sol";
+
 /**
  * @dev Wrappers over Solidity's arithmetic operations with added overflow
  * checks.

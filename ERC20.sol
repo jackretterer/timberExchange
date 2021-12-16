@@ -1,6 +1,9 @@
 pragma solidity ^0.6.0;
 
-interface ERC20 {
+import "./ERC20Basic.sol";
+import "./SafeMath.sol";
+
+interface IERC20 {
     /**
      * @dev Returns the amount of tokens in existence.
      */
