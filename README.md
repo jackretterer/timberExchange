@@ -13,3 +13,4 @@ Timber exchange was created to be a simple DeFi exchange
 2. https://developers.rsk.co/tutorials/ethereum-devs/remix-and-metamask-with-rsk-testnet/
 3. https://github.com/ajlopez/dexert
 4. https://github.com/etherex/etherex
+5. https://medium.com/upstate-interactive/what-you-need-to-know-about-msg-global-variables-in-solidity-566f1e83cc69
