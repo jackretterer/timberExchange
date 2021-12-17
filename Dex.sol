@@ -1,6 +1,6 @@
 pragma solidity ^0.6.0;
 
-import "./ERC20Basic.sol";
+import "./Token.sol";
 import "./SafeMath.sol";
 import "./ERC20.sol";
 
@@ -12,7 +12,7 @@ contract DEX {
     IERC20 public token;
 
     constructor() public {
-        token = new ERC20Basic();
+        token = new Token();
     }
 
     function buy() payable public {

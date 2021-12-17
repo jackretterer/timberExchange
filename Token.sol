@@ -6,7 +6,7 @@ import "./SafeMath.sol";
 /**
 * Contract for deploying the ERC20 token
 */
-contract ERC20Basic is IERC20 {
+contract Token is IERC20 {
 
     string public constant name = "Timber";
     string public constant symbol = "TMBR";
